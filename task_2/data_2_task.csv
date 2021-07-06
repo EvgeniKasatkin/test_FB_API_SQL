@@ -1,0 +1,13 @@
+﻿userid;time;source;medium;Registrations
+1;01.05.2021;blog;promo;
+1;02.05.2021;google;organic;1
+2;01.05.2021;google;cpc;
+2;02.05.2021;blog;promo;
+2;03.05.2021;google;organic;
+2;04.05.2021;google;cpc;
+2;05.05.2021;google;organic;
+2;06.05.2021;direct;none;
+2;07.05.2021;direct;none;1
+3;01.05.2021;google;cpc;1
+3;02.05.2021;blog;promo;
+3;03.05.2021;google;cpc;
